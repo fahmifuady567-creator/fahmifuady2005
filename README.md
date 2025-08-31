@@ -33,7 +33,7 @@ Kelas : 2D TRPL
 - memastikan flutter berhasil terinstall "flutter"
 - membuat project baru dengan mengetikkan "flutter create nama_project"
 - Buka terminal VScode dan ketik command "flutter run"
-- [Hasil Praktikum 1](images/hello_world.png)
+- [Hasil Praktikum 1](images/hello-world.png)
 
 
 ## Dokumentasi Praktikum 2: Menghubungkan Perangkat Android
@@ -66,7 +66,7 @@ Kelas : 2D TRPL
 - Lakukan perintah "git add ." untuk menambahkan semua file yang ada di change ke stage change
 - Kemudian ketikkan "git commit -m "project hello_world""
 - Setelah itu lakukan push ke github "git push"
-- [Jika berhasil tampilan repo github akan seperti ini](images/text-widgnet.png)
+- [Jika berhasil tampilan repo github akan seperti ini](images/text_widgnet.png)
 
 
 ## Dokumentasi Praktikum 4: Menerapkan Widget Dasar
@@ -76,5 +76,5 @@ Kelas : 2D TRPL
 - Kemudian import kedua file tersebut ke dalam file main.dart
 - Pergi ke file pubspec.yaml, hapus "#" baris assets dan dibawahnya tambahkan file gambar/logo
 - Buka terminal ketik command "flutter run"
-- [Hasil Praktikum 3: Image Widget](images/text-widgnet.png)
+- [Hasil Praktikum 3: Image Widget](images/image_widgnet.png)
 
