@@ -76,5 +76,5 @@ Kelas : 2D TRPL
 - Kemudian import kedua file tersebut ke dalam file main.dart
 - Pergi ke file pubspec.yaml, hapus "#" baris assets dan dibawahnya tambahkan file gambar/logo
 - Buka terminal ketik command "flutter run"
-- [Hasil Praktikum 3: Image Widget](images/image_widgnet.png)
+- [Hasil Praktikum 3: Image Widget](images/image-widget.png)
 
