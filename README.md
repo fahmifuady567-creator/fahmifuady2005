@@ -66,7 +66,7 @@ Kelas : 2D TRPL
 - Lakukan perintah "git add ." untuk menambahkan semua file yang ada di change ke stage change
 - Kemudian ketikkan "git commit -m "project hello_world""
 - Setelah itu lakukan push ke github "git push"
-- [Jika berhasil tampilan repo github akan seperti ini](images/text_widgnet.png)
+- [Jika berhasil tampilan repo github akan seperti ini](images/text_widget.png)
 
 
 ## Dokumentasi Praktikum 4: Menerapkan Widget Dasar
